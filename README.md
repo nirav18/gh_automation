@@ -1,1 +1,1 @@
-# gh_automation
+[![Create Nautobot Tag](https://github.com/nirav18/gh_automation/issues/new?template=nb_tag.yml)]
